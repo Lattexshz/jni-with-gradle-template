@@ -1,0 +1,2 @@
+# jni-with-gradle-template
+ 
